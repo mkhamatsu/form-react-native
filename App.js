@@ -15,6 +15,7 @@ function App() {
 const styles = StyleSheet.create({
   sectionContainer: {
     flex: 1,
+    backgroundColor: '#DDD'
   },
 });
 
